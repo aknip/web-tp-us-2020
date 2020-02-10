@@ -11,6 +11,23 @@
 }
 
 
+
+/* Swiper layout */
+.swiper-wrapper .title-slide-98 {
+  width: 100%!important;
+  top: 30%!important;
+}
+
+.swiper-wrapper .subtitle-slide-98 {
+  width: 80%!important;
+  top: 40%!important;
+}
+
+.blackout-98 {
+    background-color: rgba(0,0,0,.6);
+}
+
+
 /* Optimizes vertical spacing - only if in "Scroll-Mode!" */ 
 /*
 .scroll .wrap {
